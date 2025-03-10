@@ -73,7 +73,10 @@ The **Blinkit Dashboard** is a Power BI report designed to analyze and visualize
 3. Apply different filters to explore the insights.
 ```
 ### sample screenshots
-<img src="https://" alt="Blinkit Dashboard Preview" width="600"/>
+<p align="center">
+  <img src="Screenshot 2025-03-10 194943.png" alt="Blinkit Dashboard Preview" width="600"/>
+</p>
+
 
 ## Author
 Developed by **Syed Afreed**
